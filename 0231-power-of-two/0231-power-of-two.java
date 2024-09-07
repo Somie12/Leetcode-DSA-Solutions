@@ -11,11 +11,33 @@ class Solution {
         // return false;
         
         
-        if(n>0 && (n & (n-1)) == 0)
-        {
-            return true;
-        }
         
+        
+        
+//         if(n>0 && (n & (n-1)) == 0)
+//         {
+//             return true;
+//         }
+        
+//         return false;
+        
+        
+        
+        
+        
+        int res=1;
+        for(int i=0;i<=30;i++)
+        {
+            if(res==n)
+            {
+                return true;
+            }
+            if(res<Integer.MAX_VALUE/2)
+            {
+                res=res*2;
+            }
+            
+        }
         return false;
     }
 }
