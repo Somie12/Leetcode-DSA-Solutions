@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
