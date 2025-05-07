@@ -44,6 +44,7 @@
 | [0485-max-consecutive-ones](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
