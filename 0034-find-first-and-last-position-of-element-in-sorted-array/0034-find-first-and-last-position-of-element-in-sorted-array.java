@@ -1,73 +1,68 @@
 class Solution {
-    
-    int firstOcc(int[] nums, int target)
+    public int[] searchRange(int[] nums, int target) {
+        
+        
+        
+
+        int start = findFirst(nums, target);
+        int last = findLast(nums, target);
+        return new int[]{start, last};
+
+
+    }
+
+
+    int findFirst(int nums[], int target)
     {
-        int start = 0;
-        int end = nums.length-1;
-        
-        
-        int ans=-1;
-        
-        while(start<=end)
+        int low=0,high=nums.length-1;
+        int mid=-1;
+        int result=-1;
+        while(low<=high)
         {
-            int mid = (start + end) / 2;
+            mid=low+(high-low)/2;
+
             if(target==nums[mid])
             {
-                ans = mid;
-                end = mid-1;
+                result = mid;
+                high = mid-1;
             }
             else if(target>nums[mid])
             {
-                start = mid+1;
+                low=mid+1;
             }
             else if(target<nums[mid])
             {
-                end = mid-1;
+                high=mid-1;
             }
         }
-        return ans;
-        
+        return result;
+
     }
-    
-    
-    int lastOcc(int[] nums, int target)
+
+     int findLast(int nums[], int target)
     {
-        int start = 0;
-        int end = nums.length-1;
-        
-        
-        int ans=-1;
-        
-        while(start<=end)
+        int low=0,high=nums.length-1;
+        int mid=-1;
+        int result=-1;
+        while(low<=high)
         {
-            int mid = (start + end) / 2;
+            mid=low+(high-low)/2;
+
             if(target==nums[mid])
             {
-                ans = mid;
-                start = mid+1;
+                result = mid;
+                low=mid+1;
             }
             else if(target>nums[mid])
             {
-                start = mid+1;
+                low=mid+1;
             }
             else if(target<nums[mid])
             {
-                end = mid-1;
+                high=mid-1;
             }
         }
-        return ans;
-        
-    }
-    
-    
-    public int[] searchRange(int[] nums, int target) 
-    {
-        int arr[] = new int [2];
-        int first = firstOcc(nums, target);
-        int last =  lastOcc(nums, target);
-        arr[0] = first;
-        arr[1] = last;
-        return arr;
+        return result;
         
     }
 }
