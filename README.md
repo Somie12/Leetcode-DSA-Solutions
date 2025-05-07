@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
