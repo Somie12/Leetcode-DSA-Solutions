@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -59,6 +60,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Somie12/Leetcode-DSA-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
